@@ -11,4 +11,4 @@ The tutorial covers building a Tic-Tac-Toe game using React. It starts by having
 
 The tutorial then adds functionality to declare a winner, display the current player's turn, and prevent moves in occupied squares. Finally, it introduces "time travel" by storing the full history of moves in the top-level Game component, allowing the user to navigate through previous game states. 
 
-*[Tutorial: Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe)*
+*Source: [Tutorial: Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe)*
